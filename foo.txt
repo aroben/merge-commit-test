@@ -1,1 +1,1 @@
-also notfoo
+conflict resolved
